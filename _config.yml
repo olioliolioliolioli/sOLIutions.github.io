@@ -28,7 +28,7 @@ url: "https://fussballfrei.be/mutterschiff" # the base hostname & protocol for y
 # github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-scaffold
+remote_theme: jekyll-theme-scaffold
 
 excerpt_separator: "\n\n"
 
