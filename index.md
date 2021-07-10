@@ -1,9 +1,17 @@
 ---
-title: Home
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
 
-<h1>{{ site.title }} :</h1>
-<p>
-<h2><i>{{ site.insult }}</i></h2>
+# Den Bach runtergehen. 🐳 🏝️ 🚣‍♂️ 🌊 🐙 💦
+## Oder: wie man einen Weidling umbaut und die Aare runterfährt. 
 
-<span style='font-size:200px;'>&#128586;</span>
+> ### Anleitung in {{ site.posts | size }} Schritten.
+
+  <div><img src="/mutterschiff/img/splash.jpg"></div>
+
+
+
+
